@@ -1,1 +1,3 @@
-# D10
+Descrizione di progetto
+
+Drupal 10
